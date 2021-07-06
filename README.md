@@ -5,7 +5,8 @@
 - ## HACKER-20 WORLD🤐♥️
 > ###  TELEGRAM Bot:- [@Hacker_20bot](https://t.me/Hacker_20bot)
 > ### TELEGRAM CHANNEL:- [@HACKERSS_20](https://t.me/HACKERSS_20)
-## BE CSE NOTES(TELEGRAM CHANNEL):-[BE CSE NOTES](https://t.me/BE_CSE_NOTES)
+- ## BE CSE NOTES
+> ## TELEGRAM CHANNEL:-[BE CSE NOTES](https://t.me/BE_CSE_NOTES)
 
 # 1. OVERVIEW IN C++
 > ### 1. [EVEN ODD PROGRAM.cpp](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/1.%20OVERVIEW%20IN%20C%2B%2B/1.%20EVEN%20ODD%20PROGRAM.cpp)
