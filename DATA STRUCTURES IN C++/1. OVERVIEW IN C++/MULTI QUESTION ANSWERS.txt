@@ -1,0 +1,48 @@
+Operator example 1👇
+
+11
+6
+30
+1
+7
+5
+2
+18
+3
+4
+
+operator example 2👇
+
+9.0
+9.6
+2.2
+6.0
+6.0
+8.0
+1.25
+3.0
+4.0
+6.4
+
+operator example 3👇
+
+val1%10;
+val1/10%10;
+val1/100%10;
+
+operator example 4👇
+
+(15*count-11)
+(-10*count+40)
+(4*count-11)
+(-3*count+100)
+
+operator example 5👇
+
+true
+false
+false
+true
+true
+false
+true
