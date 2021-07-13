@@ -13,7 +13,8 @@ int main()
     {
       cout<<n2;
       n2+=1;
-      if(j<i)
+      if(j>i) //'i' represent rows and 'j' represent coloums 
+             // so condition should be if col number >row number then only white spaces should be printed
       {
         cout<<" ";
       }
