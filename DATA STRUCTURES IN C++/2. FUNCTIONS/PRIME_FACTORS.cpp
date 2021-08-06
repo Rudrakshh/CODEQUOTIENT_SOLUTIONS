@@ -11,6 +11,9 @@ void primeFactors(int n){
     {
       cout<<i<<endl;
       left=left/i;
+      if(left==1){
+          break;
+      }
     }
   }
 }
