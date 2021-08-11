@@ -17,7 +17,7 @@
 > ### 6. [Sum of first n terms (using for loop).cpp](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/1.%20OVERVIEW%20IN%20C%2B%2B/14.%20Sum%20of%20first%20n%20terms%20(using%20for%20loop).cpp)
 > ### 7. [Pyramid - 6.cpp](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/1.%20OVERVIEW%20IN%20C%2B%2B/15.%20Pyramid%20-%206.cpp)
 > ### 8. [Pyramid - 7.cpp](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/1.%20OVERVIEW%20IN%20C%2B%2B/16.%20Pyramid%20-%207.cpp)
-> ### 9. [Pyramid - 8.cpp](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/1.%20OVERVIEW%20IN%20C%2B%2B/SUM_OF_N_TERMS.cpp)
+> ### 9. [Pyramid - 8.cpp](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/1.%20OVERVIEW%20IN%20C%2B%2B/17.%20Pyramid%20-%208.cpp)
 > ### 10. [Multiplication table ( using for loop).cpp](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/1.%20OVERVIEW%20IN%20C%2B%2B/18.%20Multiplication%20table%20(%20using%20for%20loop).cpp)
 ## 2. FUNCTIONS
 > ### 1. [DSA CHAPTER-2 MCQ.pdf](https://github.com/Rudrakshh/CODEQUOTIENT_SOLUTIONS/blob/main/DATA%20STRUCTURES%20IN%20C%2B%2B/2.%20FUNCTIONS/1.%20DSA%20CHAPTER-2%20MCQ.pdf)
